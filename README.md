@@ -52,8 +52,10 @@ To get started with the project, follow these steps:
    npm run lint
 
 ## Project Structure
+
 Here's an overview of the project's structure:
 
+```plaintext
 ├── public
 │   ├── index.html
 │   └── ...
@@ -68,7 +70,7 @@ Here's an overview of the project's structure:
 ├── package.json
 ├── README.md
 └── vite.config.js
-
+```
 ## Deployment
 This project is deployed on Vercel. To deploy your own version:
 1. **Push your code to GitHub.**
